@@ -1,6 +1,6 @@
 6
-sakib 12 89
-rakib 18 78
+sakib 12 75
+rakib 18 75
 akib 28 75
 sifat 24 9
 ifat 17 86
