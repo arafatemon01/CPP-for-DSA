@@ -1,0 +1,2 @@
+ jersey no: 7
+country : india
